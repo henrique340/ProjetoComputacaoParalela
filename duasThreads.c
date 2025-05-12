@@ -4,7 +4,7 @@
 
 #define MAX_CHILDREN 2
 #define MAX_VALUE 100
-#define MAX_NODES 1000
+#define MAX_NODES 10000
 
 typedef struct {
     double value;

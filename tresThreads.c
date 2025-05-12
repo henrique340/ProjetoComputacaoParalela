@@ -4,7 +4,7 @@
 
 #define MAX_CHILDREN 2
 #define MAX_VALUE 100
-#define MAX_NODES 1000
+#define MAX_NODES 10000
 #define MAX_THREADS 3  // Limitando o número de threads
 
 typedef struct {

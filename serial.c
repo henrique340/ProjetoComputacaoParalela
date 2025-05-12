@@ -2,8 +2,8 @@
 #include <stdlib.h>
 
 #define MAX_CHILDREN 2
-#define MAX_VALUE 100
-#define MAX_NODES 1000
+#define MAX_VALUE 10000
+#define MAX_NODES 40000
 
 typedef struct {
     double value;
